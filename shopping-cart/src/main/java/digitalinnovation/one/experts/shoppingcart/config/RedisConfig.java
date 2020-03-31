@@ -1,4 +1,4 @@
-package digitalinnovation.one.experts.shoppingcart.shoppingcart.config;
+package digitalinnovation.one.experts.shoppingcart.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

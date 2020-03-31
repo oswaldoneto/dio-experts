@@ -2,7 +2,7 @@
 spring:
 
   application:
-    name: shopping-cart
+    name: product-catalog
 
   cloud:
     config:

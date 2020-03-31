@@ -1,8 +1,8 @@
-package digitalinnovation.one.experts.shoppingcart.shoppingcart.controller;
+package digitalinnovation.one.experts.shoppingcart.controller;
 
-import digitalinnovation.one.experts.shoppingcart.shoppingcart.model.Cart;
-import digitalinnovation.one.experts.shoppingcart.shoppingcart.model.Item;
-import digitalinnovation.one.experts.shoppingcart.shoppingcart.repository.CartRepository;
+import digitalinnovation.one.experts.shoppingcart.model.Cart;
+import digitalinnovation.one.experts.shoppingcart.model.Item;
+import digitalinnovation.one.experts.shoppingcart.repository.CartRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

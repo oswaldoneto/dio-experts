@@ -1,10 +1,10 @@
-package digitalinnovation.one.experts.shoppingcart.shoppingcart;
+package digitalinnovation.one.experts.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShoppingCartApplicationTests {
+class ConfigServerApplicationTests {
 
 	@Test
 	void contextLoads() {

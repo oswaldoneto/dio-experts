@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-experts.iml" filepath="$PROJECT_DIR$/.idea/dio-experts.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.main.iml" />
