@@ -1,0 +1,13 @@
+
+version: '2'
+
+services:
+
+  elasticsearch:
+    container_name: "elasticsearch"
+    image: elasticsearch:6.6.2
+    ports:
+      - 9200:9200
+      - 9300:9300
+    environment:
+      - discovery.type=single-node
