@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.test.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.test.iml" />
     </modules>
   </component>
 </project>
