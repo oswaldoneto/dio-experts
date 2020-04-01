@@ -6,9 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-experts.iml" filepath="$PROJECT_DIR$/.idea/dio-experts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.test.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-discovery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-discovery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-discovery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-discovery.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping-cart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping-cart.test.iml" />

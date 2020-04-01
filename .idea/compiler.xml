@@ -4,8 +4,12 @@
     <bytecodeTargetLevel>
       <module name="config-server.main" target="1.8" />
       <module name="config-server.test" target="1.8" />
+      <module name="gateway.main" target="1.8" />
+      <module name="gateway.test" target="1.8" />
       <module name="product-catalog.main" target="1.8" />
       <module name="product-catalog.test" target="1.8" />
+      <module name="service-discovery.main" target="1.8" />
+      <module name="service-discovery.test" target="1.8" />
       <module name="shopping-cart.main" target="1.8" />
       <module name="shopping-cart.test" target="1.8" />
     </bytecodeTargetLevel>
